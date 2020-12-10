@@ -1,0 +1,6 @@
+venv/bin/
+venv/data/
+venv/include/
+venv/lib/
+venv/lib64/
+venv/share/

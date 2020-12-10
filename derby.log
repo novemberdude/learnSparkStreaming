@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 09 14:40:42 ICT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0176-4671-f5e6-00000f453ac8 
+on database directory /home/hungpm/gitRepo/learnSparkStreaming/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7844d511 
+Loaded from file:/home/hungpm/tools/spark-2.4.7-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_275-8u275-b01-0ubuntu1~18.04-b01
+user.dir=/home/hungpm/gitRepo/learnSparkStreaming
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-56-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
